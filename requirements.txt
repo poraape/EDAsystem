@@ -1,0 +1,18 @@
+# Core Frameworks
+langchain
+langgraph
+langchain-google-genai
+
+# Interface
+streamlit
+
+# Análise de Dados
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+
+# Utilitários
+python-dotenv
